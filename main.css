@@ -1,0 +1,101 @@
+body {
+    background-image: url(background.jpg);
+    height: 100%;
+    background-position: blue;
+    background repeat: no-repeat;
+    background-size: cover;
+    font-family: arial;
+    background-color: red;
+}
+
+.snowman {
+    width: 800px;
+    height: 600px;
+    margin-left: 20%;
+    margin-top: -25%;
+    position: relative;
+}
+
+.icey {
+    color:red;
+    text-align: center;
+    padding-top: 20%;
+    position: relative;
+    z-index: 1000000000;
+}
+
+.icons {
+    text-align: center;
+    padding-right: 1.5%
+}
+
+.hype {
+    padding: 0 .5%;
+    color: red;
+    position: relative;
+    z-index: 1000000000;
+}
+
+.twitter {
+    padding: 0 .5%;
+    color: red;
+    position: relative;
+    z-index: 1000000000;
+}
+
+.twitch {
+    padding: 0 .5%;
+    color: red;
+    position: relative;
+    z-index: 1000000000;
+}
+
+.youtube {
+    padding: 0 .5%;
+    color: red;
+    position: relative;
+    z-index: 1000000000;
+}
+
+.hype:hover {
+    color: white;
+}
+
+.twitter:hover {
+    color: white;
+}
+
+.twitch:hover {
+    color: white;
+}
+
+.youtube:hover {
+    color: white;
+}
+
+.background {
+    padding-left: 25.2%;
+}
+
+.button {
+    text-decoration: none;
+    color: red;
+    margin-left: 44.5%;
+    margin-top: -1%;
+    border: 1px solid red;
+    background: none;
+    padding: 5px 40px;
+    position:absolute;
+    z-index: 1000000000;
+}
+
+.button:hover {
+    background: white;
+}
+
+.credit {
+    margin-left:46%;
+    margin-top: 19.5%;
+    margin-bottom: 5;
+    color:rgb(139, 139, 139);
+}
